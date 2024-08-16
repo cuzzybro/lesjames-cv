@@ -10,7 +10,10 @@ const nextConfig = {
         GOOGLE_URL: 'https://google.com',
         YOUTUBE_URL: 'https://youtube.com',
         MESSENGER_URL: 'https://messenger.com',
-    }
+    },
+    basePath: '/lesjames-resume',
+    output: 'export',
+    reactStrictMode: true
 
 };
 
