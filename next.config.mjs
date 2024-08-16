@@ -11,7 +11,7 @@ const nextConfig = {
         YOUTUBE_URL: 'https://youtube.com',
         MESSENGER_URL: 'https://messenger.com',
     },
-    basePath: '/lesjames-portfolio',
+    basePath: '/lesjames-cv',
     output: 'export',
     reactStrictMode: true
 
